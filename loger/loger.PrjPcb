@@ -101,6 +101,40 @@ GenerateClassCluster=0
 DocumentUniqueId=ICBTQFHB
 
 [Document4]
+DocumentPath=FRONT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BOJMQVWN
+
+[Document5]
+DocumentPath=FILTER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UIEUWBVD
+
+[Document6]
 DocumentPath=gsm.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKRGHIUM
 
-[Document5]
+[Document7]
 DocumentPath=io.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,11 +405,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1026,7 +1055,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1095,6 +1123,8 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+12v|NetColor=clRed
+Net2=NetName=IN_AIN7|NetColor=clBlack
+Net3=NetName=IN_AIN7_N|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
