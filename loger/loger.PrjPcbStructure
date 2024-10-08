@@ -1,7 +1,7 @@
 Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=FILTER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=FILTER.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=FRONT.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=gsm.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=io.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=gsm.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=io.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Main.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=psu.SchDoc|SheetNumber=2
