@@ -219,6 +219,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=SD CARD.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SSCZRBMN
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1219,14 +1236,23 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+12v|NetColor=clRed
-Net2=NetName=+15V|NetColor=$000099FF
-Net3=NetName=+3.3V|NetColor=clRed
-Net4=NetName=+4V|NetColor=$001D7638
-Net5=NetName=+5v|NetColor=clYellow
-Net6=NetName=GND|NetColor=$00000F5B
-Net7=NetName=IN_AIN7|NetColor=clBlack
-Net8=NetName=IN_AIN7_N|NetColor=clBlack
+Net1=NetName=-15V|NetColor=$00BDA6D5
+Net2=NetName=-9V|NetColor=$0000607F
+Net3=NetName=+12v|NetColor=clRed
+Net4=NetName=+15V|NetColor=clLime
+Net5=NetName=+3.3V|NetColor=clRed
+Net6=NetName=+4V|NetColor=$001D7638
+Net7=NetName=+5v|NetColor=clYellow
+Net8=NetName=+9V|NetColor=$003D340C
+Net9=NetName=2IN_AIN4|NetColor=clLime
+Net10=NetName=2IN_AIN6|NetColor=$003D340C
+Net11=NetName=2IN_AIN7|NetColor=$0000607F
+Net12=NetName=982|NetColor=$00751C35
+Net13=NetName=GND|NetColor=$00000F5B
+Net14=NetName=IN_AIN7|NetColor=clBlack
+Net15=NetName=IN_AIN7_N|NetColor=clBlack
+Net16=NetName=NetC24_1|NetColor=clBlue
+Net17=NetName=SGND|NetColor=$00751C35
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
