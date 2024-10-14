@@ -3,8 +3,5 @@ Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=FILTER.SchDoc|Sheet
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=FRONT.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=gsm.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=io.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=iocpu.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Main.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=psu.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=rtc.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=SD CARD.SchDoc|SheetNumber=10
