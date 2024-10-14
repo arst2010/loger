@@ -513,11 +513,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1168,7 +1163,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1236,18 +1230,18 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=-15V|NetColor=$00BDA6D5
-Net2=NetName=-9V|NetColor=$0000607F
-Net3=NetName=+12v|NetColor=clRed
-Net4=NetName=+15V|NetColor=clLime
-Net5=NetName=+3.3V|NetColor=clRed
-Net6=NetName=+4V|NetColor=$001D7638
-Net7=NetName=+5v|NetColor=clYellow
-Net8=NetName=+9V|NetColor=$003D340C
-Net9=NetName=2IN_AIN4|NetColor=clLime
-Net10=NetName=2IN_AIN6|NetColor=$003D340C
-Net11=NetName=2IN_AIN7|NetColor=$0000607F
-Net12=NetName=982|NetColor=$00751C35
+Net1=NetName=+12v|NetColor=clRed
+Net2=NetName=+15V|NetColor=clLime
+Net3=NetName=+3.3V|NetColor=clRed
+Net4=NetName=+4V|NetColor=$001D7638
+Net5=NetName=+5v|NetColor=clYellow
+Net6=NetName=+9V|NetColor=$003D340C
+Net7=NetName=-15V|NetColor=$00BDA6D5
+Net8=NetName=2IN_AIN4|NetColor=clLime
+Net9=NetName=2IN_AIN6|NetColor=$003D340C
+Net10=NetName=2IN_AIN7|NetColor=$0000607F
+Net11=NetName=982|NetColor=$00751C35
+Net12=NetName=-9V|NetColor=$0000607F
 Net13=NetName=GND|NetColor=$00000F5B
 Net14=NetName=IN_AIN7|NetColor=clBlack
 Net15=NetName=IN_AIN7_N|NetColor=clBlack
